@@ -29,6 +29,14 @@ Education / Productivity Assistant
 1. Open index.html
 2. Enter goal
 3. Click generate
+   
 
-## 📸 Demo
-(Add screenshots here)
+**## 🤖 Google Antigravity Usage
+
+This project leverages Google Antigravity for prompt-driven development.
+
+- Used AI prompting to dynamically generate study plans
+- Designed prompts to include subject prioritization and difficulty levels
+- Enables adaptive and intelligent assistant behavior
+
+This ensures the system behaves like a smart AI assistant rather than a static application.**
